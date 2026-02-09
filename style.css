@@ -1,0 +1,21 @@
+h1{
+    color: coral;
+    text-align: center;
+
+}
+table{
+    border: 3px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+td{
+    border-style: dotted;
+    border-color: brown;
+}
+th{
+    border-style: groove;
+    border-color: blue;
+}
+#para2{
+    background-color: bisque;
+}
